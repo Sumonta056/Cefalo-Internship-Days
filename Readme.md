@@ -1,13 +1,15 @@
 <div align = "center">
 
-## 🚀 [Cefalo Bangladesh Ltd](https://www.facebook.com/cefalobangladesh) Internship Journey
+## 🏆 [Cefalo Bangladesh Ltd](https://www.facebook.com/cefalobangladesh) Internship Journey
 
-<img src = "./Assets/image.png" width ="80%">
+<img src = "./Assets/image.png" width ="60%">
 
-### 📌 List Content:
+<hr>
+
+### ✍️ List Content:
 
 | No  | Content Name                 | Duration | Link                                         |
 | --- | ---------------------------- | -------- | -------------------------------------------- |
-| 1   | Recruitment Process + Result | 3 Weeks  | ( [👉 View](./Recruitment%20Process/Readme.md) ) |
+| 1   | Recruitment Process + Result | 3 Weeks  | ( [👉 View](./Recruitment%20Proccess/Readme.md) ) |
 
 </div>
