@@ -13,5 +13,9 @@
 
 - Eset and Bitlocker Installation
 - Breakfast
-- 
-
+- Assigned Mentor
+- Fusball Game & Fifa
+- HTTP & Rest API Resources Given
+- Lunch
+- Meeting with Mentors Shoaib Ahmed & Simanta Deb Turja bhai
+- Learning Basic HTTPs
