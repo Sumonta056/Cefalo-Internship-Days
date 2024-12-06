@@ -19,3 +19,14 @@
 - Lunch
 - Meeting with Mentors Shoaib Ahmed & Simanta Deb Turja bhai
 - Learning Basic HTTPs
+
+## Day - 3 : 06-Dec-2024
+
+- HTTP basics
+- Mentors Meeting - 1
+- HTTP overviews
+- Meeting with Seniors
+- HTTP Methods
+- Lunch
+- HTTP Headers
+-
