@@ -2,7 +2,7 @@
 
 ## 🏆 [Cefalo Bangladesh Ltd](https://www.facebook.com/cefalobangladesh) Internship Journey
 
-<img src = "./Assets/image.png" width ="60%">
+<img src = "./Assets/image.png" width ="80%">
 
 <hr>
 
