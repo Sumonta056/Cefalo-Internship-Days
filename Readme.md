@@ -8,8 +8,17 @@
 
 ### ✍️ List Content:
 
-| No  | Content Name                 | Duration | Link                                         |
-| --- | ---------------------------- | -------- | -------------------------------------------- |
-| 1   | Recruitment Process + Result | 3 Weeks  | ( [👉 View](./Recruitment%20Proccess/Readme.md) ) |
+| No | Content Name                 | Duration | Link                                          |
+| -- | ---------------------------- | -------- | --------------------------------------------- |
+| 1  | Recruitment Process + Result | 3 Weeks  | ([👉 View](./Recruitment%20Proccess/Readme.md) ) |
 
 </div>
+
+
+<!-- 
+    TODO: add more content
+    FIXME: fix the content
+ -->
+
+
+
