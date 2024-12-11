@@ -29,4 +29,16 @@
 - HTTP Methods
 - Lunch
 - HTTP Headers
--
+
+## Day - 4-6 : 09-Dec-2024 - 11-Dec-2024
+
+- Meeting with Mentors ( Questions & Answers )
+- HTTP Headers
+- HTTP Status Codes
+- HTTP Cookies
+- HTTP Caching
+- Signature Lunch and Veteran Lunch ( 10-Dec-2024 )
+- Meeting with Mentors ( Questions & Answers )
+- HTTP CORS
+- Foosball Mastery
+- 
