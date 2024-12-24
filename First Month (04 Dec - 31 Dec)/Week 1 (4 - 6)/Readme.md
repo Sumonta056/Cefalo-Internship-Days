@@ -41,4 +41,3 @@
 - Meeting with Mentors ( Questions & Answers )
 - HTTP CORS
 - Foosball Mastery
-- 
