@@ -1,0 +1,24 @@
+During my internship training at Cefalo, I had the opportunity to deliver a presentation as part of a learning exercise to enhance presentation skills. For this, I chose the topic "Server-Side Caching Strategy", diving deep into the core concepts and mechanisms of how caching works behind the scenes.
+
+
+
+This presentation allowed me to explore the technical details of the subject while improving my ability to communicate complex ideas effectively.
+
+
+
+I am deeply grateful to my mentors, Shoaib Ahmed Bhai, Parvez Mia Bhai, and Rawaha Anik Bhai, for their constant guidance throughout the process. Their feedback and support were invaluable in helping me refine the presentation.
+
+
+
+If you're curious about this topic, you can check out the slides for an overview of server-side caching strategies. Additionally, I’ve included a detailed video explaining the concepts in depth.
+
+
+
+Feel free to check out both resources and share your thoughts or experiences!
+
+
+
+📺 YouTube Link: [Insert YouTube Link Here]
+
+📄 Slides Link: https://lnkd.in/g6BYDMrV
+
