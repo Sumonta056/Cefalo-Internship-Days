@@ -6,4 +6,4 @@
 | 4   | Presentation Team Assign & Topic Selection | 20 Dec      |
 | 5   | Presentation Preparation Deadline          | 21 - 26 Dec |
 | 6   | Draft - Demon : Presentation Day           | 27 Dec      |
-| 7   | Final Presentation : Topic - 1             | 30 - 31 Dec |
+| 7   | Final Presentation : Topic - 1             | 3 January |
